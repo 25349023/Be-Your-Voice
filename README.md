@@ -25,7 +25,8 @@ In addition to the raw audio, we also attempted to combine it with existing TTS 
 The files in the following folders are the results of our experiments. All single numbered files are the generated raw audios, and double numbered files are the corresponding speech audios output from TTS.  
 
 [male 1](http://bit.ly/beurvoice_lowmale)  
-[male 2](http://bit.ly/beurvoice_lightmale)
+[male 2](http://bit.ly/beurvoice_lightmale)  
+[female](http://bit.ly/beurvoice_female)
 
 ## Authors
 [@25349023](https://github.com/25349023)  
