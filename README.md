@@ -27,6 +27,11 @@ The files in the following folders are the results of our experiments. All singl
 [male 1](http://bit.ly/beurvoice_lowmale)  
 [male 2](http://bit.ly/beurvoice_lightmale)
 
+## Authors
+[@25349023](https://github.com/25349023)  
+[@jokejay](https://github.com/jokejay)  
+[@AC-god](https://github.com/ac-god)
+
 ## References
 \[1\]  [Speech2Face: Learning the Face Behind a Voice](https://speech2face.github.io/)  
 \[2\]  [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
